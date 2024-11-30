@@ -1,0 +1,33 @@
+{
+    "Python Programming": [
+      {
+        "title": "Python Official Documentation",
+        "url": "https://docs.python.org/3/"
+      },
+      {
+        "title": "Python for Beginners - W3Schools",
+        "url": "https://www.w3schools.com/python/"
+      }
+    ],
+    "Data Science": [
+      {
+        "title": "Introduction to Data Science - Coursera",
+        "url": "https://www.coursera.org/learn/what-is-datascience"
+      },
+      {
+        "title": "Data Science Handbook - GitHub",
+        "url": "https://github.com/jakevdp/PythonDataScienceHandbook"
+      }
+    ],
+    "Web Development": [
+      {
+        "title": "FreeCodeCamp - Web Development",
+        "url": "https://www.freecodecamp.org/learn"
+      },
+      {
+        "title": "MDN Web Docs (HTML, CSS, JavaScript)",
+        "url": "https://developer.mozilla.org/en-US/docs/Web"
+      }
+    ]
+  }
+  

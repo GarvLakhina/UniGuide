@@ -1,0 +1,10 @@
+python-telegram-bot==20.0
+Flask==2.1.0
+transformers==4.31.0
+torch
+speechrecognition
+pydub
+gtts
+pillow
+pytesseract
+apscheduler
